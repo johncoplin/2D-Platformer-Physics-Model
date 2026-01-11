@@ -1,0 +1,2 @@
+For the project portion of my Computer Science A Level Course, I decided to code a game in Python which would allow middle school Physics students to learn about the concepts of forces in an accessible and interactive way. 
+This project taught me a lot about game development and project-management skills, along with strengthening my resilience and time-management skills since I had to complete this project while actively revising my subjects to make sure I was prepared for the upcoming exams, and was a big contributor to the grade I received in the course.
