@@ -14,4 +14,6 @@ If you'd like to play the game for yourself, follow these instructions:
 
 If you cannot run the game onto your computer for some reason (I'm not sure whether it works on Apple Macs for example), you can still get a general idea of how the game works through the videos for the Testing section of the document in the previous folder (although keep in mind these videos were recorded using an unfinished version of the game).
 
+While there aren't many comments within the program itself, a detailed explanation of how each part of the program works can be found in the Technical Solution portion of the Project Document.
+
 This project taught me a lot about game development and project-management skills, along with strengthening my resilience and time-management skills since I had to complete this project while actively revising my subjects to make sure I was prepared for the upcoming exams, and was a big contributor to the grade I received in the course.
